@@ -1,0 +1,2 @@
+import{jsx as o}from"react/jsx-runtime";var r=({placeholder:e="Enter email"})=>o("input",{type:"email",placeholder:e,className:"px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500"});export{r as Email};
+//# sourceMappingURL=react.mjs.map
